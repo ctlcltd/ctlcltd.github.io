@@ -1,0 +1,15 @@
+{
+  "username": "ctlcltd",
+  "theme": "dark",
+  "layout": ["profile", "repos", "gists"],
+  "profile": {
+    "socials": true
+  },
+  "repos": {
+    "exclude": ["ctlcltd.github.io", "cfs-translatable", "custom-field-suite", "MooVES"]
+  },
+  "socials": {
+    "website": "#"
+  },
+  "topics": []
+}
