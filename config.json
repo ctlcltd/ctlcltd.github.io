@@ -3,13 +3,15 @@
   "theme": "dark",
   "layout": ["profile", "repos", "gists"],
   "profile": {
+    "realname": true,
+    "location": true,
     "socials": true
   },
   "repos": {
     "exclude": ["ctlcltd.github.io", "cfs-translatable", "custom-field-suite", "MooVES"]
   },
   "socials": {
-    "website": "#"
+    "website": "https://loltgt.github.io"
   },
   "topics": []
 }
