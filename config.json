@@ -10,8 +10,5 @@
   "repos": {
     "exclude": ["ctlcltd.github.io", "cfs-translatable", "custom-field-suite", "MooVES", "cddb_db_import"]
   },
-  "socials": {
-    "website": "https://loltgt.github.io"
-  },
   "topics": []
 }
