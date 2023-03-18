@@ -8,7 +8,7 @@
     "socials": true
   },
   "repos": {
-    "exclude": ["ctlcltd.github.io", "cfs-translatable", "custom-field-suite", "MooVES", "cddb_db_import"]
+    "include": ["e2-sat-editor", "remote-gx-ir", "iconset", "e2se-seeds", "checksum"]
   },
   "topics": []
 }
