@@ -8,7 +8,7 @@
     "socials": true
   },
   "repos": {
-    "include": ["e2-sat-editor", "remote-gx-ir", "iconset", "e2se-seeds", "checksum"]
+    "include": ["e2-sat-editor", "remote-gx-ir", "iconset", "e2se-seeds", "e2se-wasm-demo"]
   },
   "topics": []
 }
